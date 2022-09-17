@@ -6,6 +6,7 @@
 
 .main{
     background-color: lightgrey;
+    padding: 1em;
 
 }
 
@@ -13,5 +14,6 @@ body {
     background-image: url(../assignment/record.png);
     background-repeat: repeat;
     background-size: contain;
+    margin: 0px;
 
 }
